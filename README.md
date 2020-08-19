@@ -4,7 +4,7 @@
 ## Tarea 01
 
 ### Fecha de entrega y entregables
-La fecha límite de entrega es el **jueves 13 de agosto de 2020**.  
+La fecha y hora límite para la entrega es el **miércoles 26 de agosto de 2020 a las 5:00 p.m.**.  
 
 Cuando termine el laboratorio, envíele al profesor por correo electrónico la dirección del repositorio de GitHub resultante (ej. https://github.com/mfvargas/notas-investigacion-reproducible).
 

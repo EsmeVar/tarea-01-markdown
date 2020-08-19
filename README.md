@@ -1,5 +1,3 @@
-
-# 
 # PF0953 Programación geoespacial en R
 ## Tarea 01
 

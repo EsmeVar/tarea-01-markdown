@@ -53,4 +53,4 @@ Entre paréntesis, se muestra el porcentaje correspondiente de cada aspecto que 
 ![](img/ejercicio01.png)
 ![](img/ejercicio02.png)
 
-Los textos están disponibles en [https://github.com/programacion-sig-2020/tarea-01-markdown/blob/master/texto.txt](https://github.com/programacion-sig-2020/tarea-01-markdown/blob/master/texto.txt).
+Los textos están disponibles en [https://github.com/pf0953-programaciongeoespacialr-2020/tarea-01-markdown/blob/master/texto.txt](https://github.com/pf0953-programaciongeoespacialr-2020/tarea-01-markdown/blob/master/texto.txt).
